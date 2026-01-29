@@ -1,5 +1,5 @@
 ## Dashboard
-- Analyzed 10K+ sales records to identify revenue drivers and regional performance gaps
+- Analyzed 500+ sales records to identify revenue drivers and regional performance gaps
 - Built interactive Tableau dashboard for executive decision-making
 - Discovered 23% revenue concentration in Q4, recommending inventory optimization
 
